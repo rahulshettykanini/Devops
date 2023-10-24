@@ -1,0 +1,105 @@
+
+                    Devops - Final Assessment
+                       Section 1: Multiple-Choice Questions (MCQs)
+
+1) What does WSL stand for in the context of Windows?
+a. Windows Software Locator
+b. Windows System Locator
+c. Windows Subsystem for Linux
+d. Windows Shell Language
+Answer : (c) Windows Subsystem for Linux
+
+2) What is the primary goal of continuous integration (CI) in DevOps?
+a. Automating manual testing
+b. Frequent integration of code changes
+c. Managing cloud infrastructure
+d. Monitoring server performance
+Answer : (b) Frequent integration of code changes
+
+3) In the Linux command line, what does the cd command do?
+a. Copy files and directories
+b. Change the working directory
+c. Create a new directory
+d. Calculate directory size
+Answer : (b) Change the working directory
+
+4) Which of the following is not a Linux distribution?
+a. Ubuntu
+b. CentOS
+c. Docker
+d. Debian
+Answer : (c) Docker
+
+5) What is Docker primarily used for in DevOps and containerization?
+a. Managing cloud infrastructure
+b. Running virtual machines
+c. Packaging and deploying applications in containers
+d. Managing network security
+Answer : (c) Packaging and deploying applications in containers
+
+6) What is the primary purpose of Azure DevOps?
+a. Infrastructure management
+b. Software development and delivery
+c. Network security
+d. Virtualization
+Answer : (b) Software development and delivery
+
+7) Which components are part of Azure DevOps?
+a. Azure App Service and Azure Functions
+b. Azure Monitor and Azure Security Center
+c. Azure Boards and Azure Pipelines
+d. Azure Virtual Machines and Azure SQL Database
+Answer : (c) Azure Boards and Azure Pipelines
+
+8) How does Azure DevOps support version control in software development?
+a. It provides automated database backups.
+b. It tracks changes in source code and manages versions.
+c. It monitors server performance.
+d. It optimizes network configurations.
+Answer : (b) It tracks changes in source code and manages versions.
+
+9) In Linux, what is the primary role of the root user?
+a. Managing user accounts
+b. Running GUI applications
+c. Administrative tasks with superuser privileges
+d. Monitoring network traffic
+Answer : (c) Administrative tasks with superuser privileges
+
+10) In Azure DevOps, which component is used to define, build, test, and deploy applications?
+a. Azure Boards
+b. Azure Repos
+c. Azure Pipelines
+d. Azure Artifacts
+Answer : (c) Azure Pipelines
+lab1
+ 
+lab2
+ 
+
+lab2 a
+ 
+lab2b
+ 
+lab3
+ 
+
+lab4
+ 
+
+lab4a
+ 
+
+lab5
+ 
+
+lab 5a
+ 
+
+
+
+
+
+
+
+
+
